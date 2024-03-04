@@ -1,0 +1,235 @@
+p {
+    text-align: justify;
+}
+
+.headerClass:hover{
+    color: #AB274F;
+    text-decoration: none; /* Remove default underline on hover */
+    border-bottom: 2px solid #AB274F; /* Set the underline style, color, and thickness */
+    padding-bottom: 3px; /* Adjust the space between text and underline */
+    display: inline-block; 
+}
+
+.heading{
+    text-decoration: none; /* Remove default underline on hover */
+    border-bottom: 2px solid #AB274F; /* Set the underline style, color, and thickness */
+    padding-bottom: 3px; /* Adjust the space between text and underline */
+    display: inline-block; 
+}
+
+/* .img-cls {
+    border: 3px solid #a39393;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: #324ab2;
+} */
+
+.cls-img {
+    border-radius: 10px;
+    position: relative;
+}
+
+.progress-bar {
+    margin-left: 70px;
+    padding-left: 40px;
+}
+
+.bar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0px;
+    margin-bottom: 5px;
+    position: relative;
+    width: 85%;
+}
+
+.base-bar {
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.html-bar {
+    background-color: #AB274F;
+    width: 95%;
+}
+
+.css-bar {
+    background-color: #AB274F;
+    width: 95%;
+}
+
+.js-bar {
+    background-color: #AB274F;
+    width: 80%;
+}
+
+.py-bar {
+    background-color: #AB274F;
+    width: 90%;
+}
+
+.php-bar {
+    background-color: #AB274F;
+    width: 70%;
+}
+
+.react-bar {
+    background-color: #AB274F;
+    width: 70%;
+}
+
+.redux-bar {
+    background-color: #AB274F;
+    width: 70%;
+}
+
+.mongo-bar {
+    background-color: #AB274F;
+    width: 85%;
+}
+
+.sql-bar {
+    background-color: #AB274F;
+    width: 85%;
+}
+
+.java-bar {
+    background-color: #AB274F;
+    width: 70%;
+}
+
+.node-bar {
+    background-color: #AB274F;
+    width: 70%;
+}
+
+.boot-bar {
+    background-color: #AB274F;
+    width: 80%;
+}
+
+.c-bar {
+    background-color: #AB274F;
+    width: 85%;
+}
+
+.data-bar {
+    background-color: #AB274F;
+    width: 75%;
+}
+
+.ml-bar {
+    background-color: #AB274F;
+    width: 75%;
+}
+
+#card {
+    border: solid black 1px;
+    border-radius: 10px;
+}
+
+#card:hover {
+    transform: scale(1.2);
+}
+
+
+#contactIcon1 {
+    color: green;
+
+}
+
+#contactIcon2 {
+    color: #c71610;
+}
+
+#contactIcon3 {
+    color: black;
+}
+
+#contactIcon4 {
+    color: blue;
+}
+
+#contactIcon5 {
+    color: #d62976;
+}
+
+#contactIcon1:hover {
+    color: white;
+    background: transparent;
+    background-color: green;
+}
+
+#contactIcon2:hover {
+    color: white;
+    background: transparent;
+    background-color: #c71610;
+}
+
+#contactIcon3:hover {
+    color: white;
+    background: transparent;
+    background-color: black;
+}
+
+#contactIcon4:hover {
+    color: white;
+    background: transparent;
+    background-color: blue;
+}
+
+#contactIcon5:hover {
+    color: white;
+    background: transparent;
+    background-color: #d62976
+}
+
+.icon-container {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#contactwhat:hover {
+    background-color: green;
+    color: white;
+}
+
+#contactmail:hover {
+    background-color: #c71610;
+    color: white;
+}
+
+#contactgit:hover {
+    background-color: black;
+    color: white;
+}
+
+#contactlink:hover {
+    background-color: blue;
+    color: white;
+}
+
+#contactinsta:hover {
+    background-color: #d62976;
+    color: white;
+}
+
+
+.divider {
+    border: 0;
+    /* Remove default border */
+    height: 2px;
+    /* Set the height of the line */
+    background-color: #5d5599;
+    /* Set the color of the line */
+    margin: 20px 0;
+    /* Add some margin for spacing */
+    margin-top: 70px;
+}
