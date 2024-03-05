@@ -4,12 +4,12 @@ import '../Styles/style1.css'
 function Contact() {
   return (
     <>
-      <div id='contact' lg={6} xs={12} md={6}>
+      <div id='contact' lg={6} xs={12} md={6} className='text-align-center justify-content-center'>
         <div className='d-flex align-items-center justify-content-center flex-column mt-3 mb-3 text-justify'>
           <h3><b className='heading' style={{ color:"#AB274F", fontSize:"65px" }}>Contact</b></h3>
         </div>
 
-        <div class='d-flex align-items-center justify-content-center mt-5'>
+        <div class='d-flex align-items-center justify-content-center mt-5' LG={4} lg={4} xs={12} md={6} s={12}>
           <a href="https://wa.me/919895547621" target='_blank'><div id='contactwhat' class='icon-container text-success me-4'>
             <i id='contactIcon1' class="fab fa-whatsapp fa-2x"></i>
           </div></a>

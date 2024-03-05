@@ -6,7 +6,7 @@ import resume from '../assets/Aswathy-Resume.pdf'
 function Home() {
   return (
     <>
-      <div id='home' className='mb-5'>
+      <div id='home' className='mb-5 d-flex text-align-center justify-content-center'>
         <div className='mt-1 p-5'>
           <Row className='ms-5'>
             <Col className='mt-5 pt-5' lg={6} xs={12} md={6}>
