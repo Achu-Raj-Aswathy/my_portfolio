@@ -50,7 +50,7 @@ function Projects() {
     <>
       <div id='projects' className='d-flex flex-column text-align-center justify-content-center'>
         <div className='d-flex align-items-center justify-content-center mt-3 text-justify'>
-          <h3><b className="heading" style={{ color: "#AB274F", fontSize: "65px" }}>Projects</b></h3>
+          <h3><b className="heading p-5 " style={{ color: "#AB274F", fontSize: "65px" }}>Projects</b></h3>
         </div>
         <div className='d-flex align-items-center justify-content-center ms-5'>
           <Row className='container'>
