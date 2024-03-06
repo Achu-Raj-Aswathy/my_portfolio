@@ -48,7 +48,7 @@ function Projects() {
   ];
   return (
     <>
-      <div id='projects' className='p-5 d-flex flex-column text-align-center justify-content-center'>
+      <div id='projects' className='d-flex flex-column text-align-center justify-content-center'>
         <div className='d-flex align-items-center justify-content-center mt-3 text-justify'>
           <h3><b className="heading" style={{ color: "#AB274F", fontSize: "65px" }}>Projects</b></h3>
         </div>

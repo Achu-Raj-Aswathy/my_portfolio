@@ -4,7 +4,7 @@ import '../Styles/style1.css';
 function Contact() {
   return (
     <>
-      <div id='contact' className='p-5 d-flex flex-column text-align-center justify-content-center'>
+      <div id='contact' className='d-flex flex-column text-align-center justify-content-center'>
         <div className='d-flex align-items-center justify-content-center flex-column mt-3 mb-3 text-justify'>
           <h3><b className='heading' style={{ color:"#AB274F", fontSize:"65px" }}>Contact</b></h3>
         </div>
