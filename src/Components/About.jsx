@@ -9,7 +9,7 @@ function About() {
                 <div className='d-flex align-items-center justify-content-center flex-column mt-3 mb-3 text-justify'>
                     <h3><b className="heading p-5 " style={{ color: "#AB274F", fontSize: "65px" }}>About Me</b></h3>
                 </div>
-                <div className='ms-2 container'>
+                <div className='ms-5 container'>
                     <Row className='flex-md-row-reverse'>
                         <Col lg={6} xs={12} md={6} className='mt-4'>
                             <p className='d-flex text-justify'>Hello! I'm Aswathy Raj, a passionate and driven Full Stack Developer with a keen interest in creating innovative solutions and enhancing user experiences.
