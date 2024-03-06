@@ -56,7 +56,7 @@ function Projects() {
           <Row className='container'>
           {projects.map((project, index) => (
               <Col key={index} lg={4} md={6} sm={12} className='mt-5'>
-                <Card style={{ width: '13rem' }} className=''>
+                <Card style={{ width: '13rem' }} id='card'>
                   <Card.Img height={'200px'} width={'100%'} variant='top' src={project.image} />
                   <Card.Body style={{ width: '100%' }} className='w-100'>
                     <Card.Title><b className='d-flex justify-content-center'>{project.title}</b></Card.Title>
