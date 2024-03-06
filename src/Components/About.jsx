@@ -29,7 +29,7 @@ function About() {
                                 <br />
                                 Location: Muvattupuzha, Ernakulam
                                 <br />
-                                Hobbies: Listening music, Cycling, Cricket Enthusiast, Watching dramas
+                                Hobbies: Listening to music, Cycling, Cricket Enthusiast, Watching dramas
                             </p>
                         </Col>
                     </Row>
