@@ -7,10 +7,10 @@ function Skills() {
     <>
       <div id='skills' className='p-5 d-flex flex-column text-align-center justify-content-center'>
         <div className='d-flex align-items-center justify-content-center flex-column mt-3 mb-3 text-justify'>
-          <h3><b className="heading" style={{color:"#AB274F", fontSize:"65px"}}>Skills</b></h3>
+          <h3><b className="heading" style={{ color: "#AB274F", fontSize: "65px" }}>Skills</b></h3>
         </div>
-        <div>
-          <Row className='mt-5'>
+        <div className='container'>
+          <Row className='mt-5 justify-content-center'>
             <Col lg={6} xs={12} md={6} className='mt-2'>
               <div class="skill-container">
                 <div class="progress-bar">
@@ -138,8 +138,6 @@ function Skills() {
             </Col>
           </Row>
         </div>
-
-
       </div>
 
     </>

@@ -30,8 +30,8 @@ p {
 }
 
 .progress-bar {
-    margin-left: 70px;
-    padding-left: 40px;
+    margin-left: 70px; 
+    /* padding-left: 40px; */
 }
 
 .bar-container {

@@ -10,7 +10,7 @@ function Home() {
         <div className='mt-1 p-5'>
           <Row className='ms-5'>
             <Col className='mt-5 pt-5' lg={6} xs={12} md={6}>
-              <h2 style={{ color: "black" }}>I'm <span><b style={{ color: "#AB274F", fontSize:"60px" }}>Aswathy Raj</b></span></h2>
+              <h2 style={{ color: "black" }}>I'm <span><b style={{ color: "#AB274F", fontSize:"55px" }}>Aswathy Raj</b></span></h2>
               
               <h4>Full Stack Developer</h4>
 
