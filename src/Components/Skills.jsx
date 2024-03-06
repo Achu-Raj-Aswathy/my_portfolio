@@ -12,13 +12,13 @@ function Skills() {
         <div className='container'>
           <Row className='mt-5 justify-content-center'>
             <Col lg={6} xs={12} md={6} className='mt-2'>
-              <div class="skill-container">
-                <div class="progress-bar">
-                  <div class="bar-container">
+              <div className="skill-container">
+                <div className="progress-bar">
+                  <div className="bar-container">
                     <h6>HTML</h6>
                     <span>95%</span>
-                    <div class="base-bar"></div>
-                    <div class="base-bar html-bar"></div>
+                    <div className="base-bar"></div>
+                    <div className="base-bar html-bar"></div>
                   </div>
                   <br />
                   <div class="bar-container">
@@ -75,13 +75,13 @@ function Skills() {
             </Col>
 
             <Col lg={6} xs={12} md={6} className='mt-2'>
-              <div class="skill-container">
-                <div class="progress-bar">
-                  <div class="bar-container">
+              <div className="skill-container">
+                <div className="progress-bar">
+                  <div className="bar-container">
                     <h6>MONGO DB</h6>
                     <span>85%</span>
-                    <div class="base-bar"></div>
-                    <div class="base-bar mongo-bar"></div>
+                    <div className="base-bar"></div>
+                    <div className="base-bar mongo-bar"></div>
                   </div>
                   <br />
                   <div class="bar-container">
@@ -139,9 +139,8 @@ function Skills() {
           </Row>
         </div>
       </div>
-
     </>
-  )
+  );
 }
 
 export default Skills
