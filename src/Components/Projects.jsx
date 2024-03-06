@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { Button, Card, Col, Collapse, Row } from 'react-bootstrap'
+import React from 'react'
+import { Button, Card, Col, Row } from 'react-bootstrap'
 import media from '../assets/mediaPlayer.jpeg'
 import ekart from '../assets/eKart.jpeg'
 import restaurant from '../assets/restaurant.jpeg'

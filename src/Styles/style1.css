@@ -161,32 +161,27 @@ p {
 
 #contactIcon1:hover {
     color: white;
-    background: transparent;
     background-color: green;
 }
 
 #contactIcon2:hover {
     color: white;
-    background: transparent;
     background-color: #c71610;
 }
 
 #contactIcon3:hover {
     color: white;
-    background: transparent;
     background-color: black;
 }
 
 #contactIcon4:hover {
     color: white;
-    background: transparent;
     background-color: blue;
 }
 
 #contactIcon5:hover {
     color: white;
-    background: transparent;
-    background-color: #d62976
+    background-color: #d62976;
 }
 
 .icon-container {
@@ -220,6 +215,7 @@ p {
     background-color: #d62976;
     color: white;
 }
+
 
 
 .divider {

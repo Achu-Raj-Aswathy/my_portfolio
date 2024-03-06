@@ -20,7 +20,7 @@ function Home() {
               With a blend of frontend finesse and backend prowess, I strive to create seamless digital experiences that leave a lasting impression.</p>
               <br />
               <div className="cv-btn" data-aos='fade-right' data-aos-duration="1600">
-                <a href={resume} download='resume'>
+                <a href={resume} download='resume' target='_blank'>
                   <button style={{ backgroundColor: '#AB274F', color:"white"}} className='dnld p-2 rounded'>Download Resume</button>
                 </a>
               </div>
