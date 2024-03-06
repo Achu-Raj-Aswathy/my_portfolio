@@ -9,7 +9,7 @@ function Contact() {
           <h3><b className='heading' style={{ color:"#AB274F", fontSize:"65px" }}>Contact</b></h3>
         </div>
 
-        <div className='d-flex align-items-center justify-content-center mt-5 flex-wrap'>
+        <div className='ms-3 d-flex align-items-center justify-content-center mt-5 flex-wrap'>
           <a href="https://wa.me/919895547621" target='_blank'>
             <div id='contactwhat' className='icon-container text-success me-4 mb-4'>
               <i id='contactIcon1' className="fab fa-whatsapp fa-2x"></i>
